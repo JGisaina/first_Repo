@@ -10,7 +10,7 @@ A list is set like this:
 1. ONE
 2. TWO
 3. THREE  
-**un-oerderd list
+**un-oerderd list**
 
 * one 
 * two
